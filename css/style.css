@@ -1,0 +1,50 @@
+body {
+  font-family: "Helvetica Neue"
+}
+
+#Flyer{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px black solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.Header img{
+  display: block;
+  width: 100%;
+}
+
+h1 {
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+
+h2 {
+  color: tomato;
+  font-weight: 200;
+}
+
+.Flyer-Body {
+  font-family: "Arial";
+  font-size: 21px;
+}
+
+.Sponsors {
+  font-size: 14px;
+}
+
+.Sponsors img {
+  width: 140px;
+}
+
+.Footer p {
+  font-size: 10px;
+}
+
+.Footer img {
+  width: 500px;
+}
